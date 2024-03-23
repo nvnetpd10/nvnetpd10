@@ -12,6 +12,36 @@
 
 # 💻 Tech Stack:
 <p align="left">
+     <a href="https://react-hook-form.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React Hook Form" width="40" height="40"/>
+    </a>
+    <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
+    </a>
+    <a href="https://socket.io/" target="_blank" rel="noreferrer">
+        <img src="https://socket.io/images/logo.svg" alt="Socket.io" width="40" height="40"/>
+    </a>
+    <a href="https://spring.io/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="Spring" width="40" height="40"/>
+    </a>
+    <a href="https://web3js.readthedocs.io/" target="_blank" rel="noreferrer">
+        <img src="https://web3js.readthedocs.io/en/v1.3.4/_static/logo.web3js.9c5d64c9.png" alt="Web3.js" width="40" height="40"/>
+    </a>
+    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.gstatic.com/devrel-devsite/prod/v471f5ce3446f4a1b0e41f6b4929153409b27eeade2d83d8f9ddcf4708c63579a/firebase/images/touchicon-180.png" alt="Firebase" width="40" height="40"/>
+    </a>
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+    </a>
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
+    </a>
+    <a href="https://adobe.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/adobe/adobe-original.svg" alt="Adobe" width="40" height="40"/>
+    </a>
+    <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.figma.com/favicon.ico" alt="Figma" width="40" height="40"/>
+    </a>
      <a href="https://nodemon.io/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodemon/nodemon-original-wordmark.svg" alt="Nodemon" width="40" height="40"/>
     </a>
