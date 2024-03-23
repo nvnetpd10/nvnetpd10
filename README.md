@@ -45,9 +45,7 @@
     <a href="https://pages.github.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub Pages" width="40" height="40"/>
     </a>
-    <a href="https://www.netlify.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.netlify.com/img/press/logos/full-logo-light.svg" alt="Netlify" width="40" height="40"/>
-    </a>
+    
     <a href="https://vercel.com/" target="_blank" rel="noreferrer">
         <img src="https://assets.vercel.com/image/upload/front/assets/design/vercel-triangle-black.svg" alt="Vercel" width="40" height="40"/>
     </a>
