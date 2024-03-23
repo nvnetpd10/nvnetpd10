@@ -1,6 +1,5 @@
-# 💫 About Me:
-React<br>Social Media Application<br>For Experience<br>Reactjs , Nextjs<br>Reactjs , Nextjs<br>I am funny
-
+<h1 align="center">Hi 👋, I'm Ashutosh Mishra</h1>
+<h3 align="center">A passionate Software Engineer from India</h3>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/navneet-tiwari-9209a3218/) 
