@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ashutosh Mishra</h1>
+<h1 align="center">Hi 👋, I'm Navneet Tiwari</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
 ## 🌐 Socials:
