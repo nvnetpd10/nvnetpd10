@@ -42,6 +42,36 @@
     <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
     </a>
+    <a href="https://pages.github.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub Pages" width="40" height="40"/>
+    </a>
+    <a href="https://www.netlify.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.netlify.com/img/press/logos/full-logo-light.svg" alt="Netlify" width="40" height="40"/>
+    </a>
+    <a href="https://vercel.com/" target="_blank" rel="noreferrer">
+        <img src="https://assets.vercel.com/image/upload/front/assets/design/vercel-triangle-black.svg" alt="Vercel" width="40" height="40"/>
+    </a>
+    <a href="https://render.com/" target="_blank" rel="noreferrer">
+        <img src="https://avatars.githubusercontent.com/u/62560713?s=280&v=4" alt="Render" width="40" height="40"/>
+    </a>
+    <a href="https://www.cloudflare.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.cloudflare.com/img/cf-twitter-card.png" alt="Cloudflare" width="40" height="40"/>
+    </a>
+    <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/en/c/cd/Anaconda_Logo.png" alt="Anaconda" width="40" height="40"/>
+    </a>
+    <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/>
+    </a>
+    <a href="https://www.electronjs.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="Electron.js" width="40" height="40"/>
+    </a>
+    <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
+    </a>
+    <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="NPM" width="40" height="40"/>
+    </a>
 </p>
 
 # 📊 GitHub Stats:
