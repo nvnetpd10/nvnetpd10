@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Navneet Tiwari</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
+- 🔭 I’m currently working on ** Social Media App **
+- 🌱 I’m currently learning ** Advanced Frameworks*
+- 💬 Ask me about ** Bugs of your program **
+- 📫 How to reach me: ** navneettiwarinew270103@gmail.com **
+- ⚡ Fun fact: ** I am Funny **
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/navneet-tiwari-9209a3218/) 
 
