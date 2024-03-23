@@ -70,6 +70,36 @@
     <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="NPM" width="40" height="40"/>
     </a>
+    <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg" alt="Nuxt.js" width="40" height="40"/>
+    </a>
+    <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+    </a>
+    <a href="https://nodemon.io/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodemon/nodemon-original-wordmark.svg" alt="Nodemon" width="40" height="40"/>
+    </a>
+    <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="40" height="40"/>
+    </a>
+    <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain-wordmark.svg" alt="NestJS" width="40" height="40"/>
+    </a>
+    <a href="https://jwt.io/" target="_blank" rel="noreferrer">
+        <img src="https://jwt.io/img/pic_logo.svg" alt="JWT" width="40" height="40"/>
+    </a>
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+    </a>
+    <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React Native" width="40" height="40"/>
+    </a>
+    <a href="https://react-query.tanstack.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React Query" width="40" height="40"/>
+    </a>
+    <a href="https://reactrouter.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React Router" width="40" height="40"/>
+    </a>
 </p>
 
 # 📊 GitHub Stats:
